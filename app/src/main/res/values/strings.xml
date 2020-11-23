@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="share_now">Share Now</string>
+    <string name="guardiani_della_galassia">Guardiani della galassia</string>
+    <string name="marvel">Marvel</string>
+    <string name="_16_00_18_00">16:00 - 18:00</string>
+    <string name="aggiungi_ai_preferiti">Aggiungi ai preferiti</string>
+    <string name="condividi_film">Condividi Film</string>
+</resources>
